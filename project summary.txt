@@ -1,0 +1,11 @@
+my project summary
+1 Data gathering using bs4, urllib.request and saved to a csv file
+2. Data pre-processing(the stages are below) using NLTK( natural language tool kit)
+a. tokenization- smaller vocabulary
+b. normalisation - that is stop words and converting all words to lower cases.
+c. part of speech tagging - converting words in groups of nouns, adjectives and e.tc( We apply machine learning algorithms here)
+d. chunking ( party of small graphs)
+e. sentiment analysis- application  of machine learning again  for deriving the meanings of words in a document
+
+3. data visualisation
+displaying the data that was obtained using numpy, pandas and matplotlib.pyplot.
